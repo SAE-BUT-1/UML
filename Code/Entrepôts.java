@@ -20,6 +20,7 @@ public class Entrepots {
      *
      */
     public idEntrepot int;
+        test;
 
     /**
      *
