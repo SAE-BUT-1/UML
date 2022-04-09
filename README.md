@@ -1,2 +1,0 @@
-# UML
-Digramme de classe
